@@ -1,6 +1,22 @@
-realsense-D455-YOLOV5
+                                                                  realsense-D455-YOLOV5
 
-利用realsense深度相机实现yolov5目标检测的同时测出距离
+1.利用realsense深度相机实现yolov5目标检测的同时测出距离
+
+
+2.你可以将其他版本的yolo v5 的版本应用到这个上面，因为我只更改了detect.py为realsensedetect.py
+
+
+
+
+
+3.运行的代码为：python realsensedetect.py
+
+
+
+
+
+
+
 
 
 
